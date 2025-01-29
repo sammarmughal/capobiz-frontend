@@ -1,0 +1,410 @@
+[
+    {
+        "id": 1,
+        "slug": "inventory-management",
+        "meta": {
+            "title": "Inventory Management | CapoBiz Features",
+            "description": "Efficiently track and manage your stock levels with CapoBiz's Inventory Management system. Streamline your operations and reduce waste today!",
+            "openGraph": {
+                "title": "Inventory Management | CapoBiz Features",
+                "description": "Discover CapoBiz's powerful Inventory Management tools. Gain complete control over your stock and inventory levels for optimized efficiency.",
+                "url": "https://capobiz.com/pos-features/inventory-management",
+                "type": "article"
+            },
+            "twitter": {
+                "card": "summary_large_image",
+                "title": "Inventory Management | CapoBiz Features",
+                "description": "Boost your business efficiency with CapoBiz's advanced Inventory Management solutions. Start managing your stock with ease!"
+            },
+            "canonical": "https://capobiz.com/pos-features/inventory-management"
+        },
+        "content": {
+            "heroHeading": "Streamline Your Inventory Management with CapoBiz",
+            "title": "Inventory Management",
+            "description": "Take control of your stock levels with CapoBiz's advanced inventory management solutions. Reduce waste and optimize efficiency with real-time tools.",
+            "detailedDescription": "Efficient inventory management is the cornerstone of successful business operations. With CapoBiz's advanced Inventory Management system, you can track and control stock levels with precision. Designed to reduce waste, minimize overstocking, and prevent shortages, our solution empowers you to make data-driven decisions for maximum efficiency. Whether you're managing a single location or multiple warehouses, CapoBiz provides real-time insights and automation tools to simplify your processes. With user-friendly dashboards and robust reporting features, you’ll gain complete visibility over your inventory. Seamlessly integrate inventory control with other business functions to optimize workflows and improve overall performance. Trust CapoBiz to help you meet customer demands, reduce operational costs, and maximize profitability. Take charge of your inventory today and stay ahead in the competitive market.",
+            "bulletPoints": [
+                "Real-Time Stock Tracking: Monitor inventory levels in real time across multiple locations.",
+                "Automated Alerts: Get notified about low stock levels or overstocking.",
+                "Seamless Integration: Integrates with sales, purchase, and production modules.",
+                "Advanced Reporting: Generate detailed reports for better decision-making.",
+                "User-Friendly Interface: Easy-to-navigate dashboards for efficient management."
+            ],
+            "image": "/assets/features/inventory-management.png"
+        }
+    },
+    {
+        "id": 2,
+        "slug": "sales-purchase-management",
+        "meta": {
+            "title": "Sales & Purchase Management | CapoBiz Features",
+            "description": "Streamline your sales and purchase transactions with CapoBiz. Enhance accuracy and save time with our integrated tools!",
+            "openGraph": {
+                "title": "Sales & Purchase Management | CapoBiz Features",
+                "description": "Improve transaction efficiency with CapoBiz's Sales & Purchase Management system. Manage orders seamlessly today!",
+                "url": "https://capobiz.com/pos-features/sales-purchase-management",
+                "type": "article"
+            },
+            "twitter": {
+                "card": "summary_large_image",
+                "title": "Sales & Purchase Management | CapoBiz Features",
+                "description": "Optimize your sales and purchase processes with CapoBiz's advanced tools. Achieve more with less effort!"
+            },
+            "canonical": "https://capobiz.com/pos-features/sales-purchase-management"
+        },
+        "content": {
+            "heroHeading": "Optimize Your Sales & Purchase Management",
+            "title": "Sales & Purchase Management",
+            "description": "Streamline your transactions with our integrated Sales & Purchase Management tools. Enhance accuracy and reduce errors to save time and resources.",
+            "detailedDescription": "Simplify and enhance your business transactions with CapoBiz's Sales & Purchase Management solution. Our tools are designed to streamline sales and purchase processes, ensuring accuracy and reducing manual errors. Manage orders, track purchase history, and monitor vendor relationships with ease. The integrated system provides real-time updates, helping you make informed decisions and maintain seamless operations. Whether you're handling bulk transactions or individual orders, our solution adapts to your needs and scales with your business. Save time, enhance efficiency, and improve customer satisfaction with CapoBiz.",
+            "bulletPoints": [
+                "Real-Time Order Tracking: Monitor sales and purchases as they happen.",
+                "Vendor Management: Maintain and optimize vendor relationships.",
+                "Integrated Platform: Combines with inventory and accounting tools.",
+                "Customizable Invoices: Generate professional and tailored invoices.",
+                "Error Reduction: Minimize manual entry errors with automated workflows."
+            ],
+            "image": "/assets/features/sales-purchase-management.png"
+        }
+    },
+    {
+        "id": 3,
+        "slug": "multi-warehouse-management",
+        "meta": {
+            "title": "Multi Warehouse Management | CapoBiz Features",
+            "description": "Effortlessly manage inventory across multiple warehouses with CapoBiz. Ensure seamless coordination and reduce logistical challenges.",
+            "openGraph": {
+                "title": "Multi Warehouse Management | CapoBiz Features",
+                "description": "CapoBiz simplifies Multi Warehouse Management. Monitor and control your stock across locations with ease.",
+                "url": "https://capobiz.com/pos-features/multi-warehouse-management",
+                "type": "article"
+            },
+            "twitter": {
+                "card": "summary_large_image",
+                "title": "Multi Warehouse Management | CapoBiz Features",
+                "description": "Coordinate inventory across multiple warehouses with CapoBiz. Stay in control of your logistics and operations."
+            },
+            "canonical": "https://capobiz.com/pos-features/multi-warehouse-management"
+        },
+        "content": {
+            "heroHeading": "Capobiz Multi Warehouse Management",
+            "title": "Multi Warehouse Management",
+            "description": "Seamlessly manage and monitor inventory across multiple warehouses with CapoBiz's advanced tools.",
+            "detailedDescription": "Capobiz Managing multiple warehouses has never been easier with CapoBiz's comprehensive solution. Our Multi Warehouse Management tools provide centralized control, enabling you to monitor inventory levels, transfer stock between locations, and reduce logistical challenges. Real-time updates ensure you stay informed about stock movements, while our analytics tools help optimize storage and minimize waste. Whether you're scaling operations or improving existing processes, CapoBiz's solution adapts to your needs for seamless multi-location management.",
+            "bulletPoints": [
+                "Centralized Inventory Management: Manage all warehouses from a single dashboard.",
+                "Stock Transfer Tools: Easily move inventory between locations.",
+                "Real-Time Updates: Stay informed about stock levels and movements.",
+                "Logistics Optimization: Reduce shipping and storage costs.",
+                "Advanced Analytics: Gain insights to improve efficiency and planning."
+            ],
+            "image": "/assets/features/multi-warehouse-management.png"
+        }
+    },
+    {
+        "id": 4,
+        "slug": "products-production-management",
+        "meta": {
+            "title": "Products & Production Management | CapoBiz Features",
+            "description": "Optimize product lifecycles and streamline production workflows with CapoBiz's tailored solutions.",
+            "openGraph": {
+                "title": "Products & Production Management | CapoBiz Features",
+                "description": "Refine your production processes with CapoBiz. Manage your product lifecycle efficiently with our advanced tools.",
+                "url": "https://capobiz.com/pos-features/products-production-management",
+                "type": "article"
+            },
+            "twitter": {
+                "card": "summary_large_image",
+                "title": "Products & Production Management | CapoBiz Features",
+                "description": "Enhance your production efficiency with CapoBiz. Discover the tools you need for streamlined operations."
+            },
+            "canonical": "https://capobiz.com/pos-features/products-production-management"
+        },
+        "content": {
+            "heroHeading": "Enhance Products & Production Management",
+            "title": "Products & Production Management",
+            "description": "Optimize product lifecycles and streamline production workflows with our advanced tools.",
+            "detailedDescription": "CapoBiz's Products & Production Management solutions are tailored to help businesses enhance their workflows and optimize product lifecycles. With tools designed to track production progress, allocate resources efficiently, and minimize downtime, you can achieve greater productivity and operational success. Stay ahead in a competitive market with our data-driven analytics, enabling smarter decisions for your business. Our solution is scalable, ensuring seamless integration with existing operations, and customizable to suit your unique production needs.",
+            "bulletPoints": [
+                "Lifecycle Management: Monitor and control product lifecycle stages.",
+                "Resource Allocation: Maximize the efficiency of resources and labor.",
+                "Production Tracking: Gain real-time insights into production processes.",
+                "Customizable Tools: Adapt to your specific production requirements.",
+                "Data-Driven Analytics: Make informed decisions to optimize workflows."
+            ],
+            "image": "/assets/features/products-production-management.png"
+        }
+    },
+    {
+        "id": 5,
+        "slug": "trading-management",
+        "meta": {
+            "title": "Trading Management | CapoBiz Features",
+            "description": "CapoBiz Trading Management empowers your operations. Simplify processes and boost profitability today.",
+            "openGraph": {
+                "title": "Trading Management | CapoBiz Features",
+                "description": "Discover the advantages of CapoBiz's Trading Management tools. Achieve better control and performance.",
+                "url": "https://capobiz.com/pos-features/trading-management",
+                "type": "article"
+            },
+            "twitter": {
+                "card": "summary_large_image",
+                "title": "Trading Management | CapoBiz Features",
+                "description": "Enhance your trading operations with CapoBiz. Simplify and succeed with our robust tools."
+            },
+            "canonical": "https://capobiz.com/pos-features/trading-management"
+        },
+        "content": {
+            "heroHeading": "Simplify Trading Management with CapoBiz",
+            "title": "Trading Management",
+            "description": "CapoBiz Trading Management empowers your operations. Simplify processes and boost profitability today.",
+            "detailedDescription": "Managing trading operations can be complex, but CapoBiz Trading Management tools make it easier than ever. Our platform is designed to streamline processes, improve accuracy, and enhance control over your trading activities. With features like automated workflows, advanced analytics, and integration with other business systems, CapoBiz ensures you stay ahead in a competitive market. Whether you're handling domestic or international trading, our tools provide real-time insights to optimize decision-making. Trust CapoBiz to help you boost productivity and maximize your trading potential.",
+            "bulletPoints": [
+                "Streamlined trading workflows for maximum efficiency.",
+                "Real-time analytics for data-driven decisions.",
+                "Integration with financial and inventory systems.",
+                "Customizable tools to fit trading operations.",
+                "Secure and reliable platform for managing trading data."
+            ],
+            "image": "/assets/features/trading-management.png"
+        }
+    },
+    {
+        "id": 6,
+        "slug": "accounts-management",
+        "meta": {
+            "title": "Accounts Management | CapoBiz Features",
+            "description": "Simplify your financial processes with CapoBiz's Accounts Management system. Save time and ensure accuracy.",
+            "openGraph": {
+                "title": "Accounts Management | CapoBiz Features",
+                "description": "CapoBiz offers an easy way to manage finances. Track accounts, generate reports, and achieve clarity with Accounts Management.",
+                "url": "https://capobiz.com/pos-features/accounts-management",
+                "type": "article"
+            },
+            "twitter": {
+                "card": "summary_large_image",
+                "title": "Accounts Management | CapoBiz Features",
+                "description": "Handle your business finances effectively with CapoBiz. Try Accounts Management to simplify complex processes."
+            },
+            "canonical": "https://capobiz.com/pos-features/accounts-management"
+        },
+        "content": {
+            "heroHeading": "Effortless Accounts Management with CapoBiz",
+            "title": "Accounts Management",
+            "description": "Simplify your financial processes with CapoBiz's Effortless Accounts Management system. Save time and ensure accuracy.",
+            "detailedDescription": "Managing your business's finances is simple and efficient with CapoBiz Accounts Management. Our comprehensive system helps you track transactions, generate accurate reports, and maintain financial clarity. Designed for businesses of all sizes, CapoBiz provides tools for budget management, expense tracking, and seamless integration with other modules. With robust security and easy-to-use dashboards, you'll have all the tools you need to make informed financial decisions. Let CapoBiz streamline your accounting processes and take the stress out of managing finances.",
+            "bulletPoints": [
+                "Accurate tracking of transactions and expenses.",
+                "Advanced financial reporting tools.",
+                "Secure platform for sensitive financial data.",
+                "Integration with sales, inventory, and other modules.",
+                "User-friendly interface for ease of use."
+            ],
+            "image": "/assets/features/accounts-management.png"
+        }
+    },
+    {
+        "id": 7,
+        "slug": "customer-relationship-management",
+        "meta": {
+            "title": "Customer Relationship Management | CapoBiz Features",
+            "description": "Build lasting customer relationships with CapoBiz's CRM tools. Enhance loyalty and streamline interactions effortlessly.",
+            "openGraph": {
+                "title": "Customer Relationship Management | CapoBiz Features",
+                "description": "CapoBiz CRM helps you nurture relationships. Manage customer interactions effectively and grow your business.",
+                "url": "https://capobiz.com/pos-features/customer-relationship-management",
+                "type": "article"
+            },
+            "twitter": {
+                "card": "summary_large_image",
+                "title": "Customer Relationship Management | CapoBiz Features",
+                "description": "Improve customer retention with CapoBiz's CRM. Streamline communication and build trust with ease."
+            },
+            "canonical": "https://capobiz.com/pos-features/customer-relationship-management"
+        },
+        "content": {
+            "heroHeading": "Build Stronger Customer Relationships with CapoBiz CRM",
+            "title": "Customer Relationship Management",
+            "description": "Build lasting customer relationships with CapoBiz's CRM tools. Enhance loyalty and streamline interactions effortlessly.",
+            "detailedDescription": "CapoBiz CRM is designed to help you nurture and manage customer relationships effectively. From tracking interactions to automating follow-ups, our CRM tools make it easy to enhance customer satisfaction and loyalty. With powerful analytics and integration capabilities, you can personalize interactions and identify growth opportunities. Simplify customer support and streamline communication to improve overall customer retention. CapoBiz CRM is your trusted partner in building stronger connections and driving business success.",
+            "bulletPoints": [
+                "Centralized customer data for easy access.",
+                "Automated follow-ups and reminders.",
+                "Integration with sales and marketing tools.",
+                "Real-time insights into customer behavior.",
+                "User-friendly dashboards for effective CRM management."
+            ],
+            "image": "/assets/features/customer-relationship-management.png"
+        }
+    },
+    {
+        "id": 8,
+        "slug": "salaries-expense-management",
+        "meta": {
+            "title": "Salaries & Expense Management | CapoBiz Features",
+            "description": "Manage payroll and expenses efficiently with CapoBiz. Keep track of financials with accuracy and ease.",
+            "openGraph": {
+                "title": "Salaries & Expense Management | CapoBiz Features",
+                "description": "CapoBiz simplifies payroll and expense tracking. Save time with automated and accurate solutions.",
+                "url": "https://capobiz.com/pos-features/salaries-expense-management",
+                "type": "article"
+            },
+            "twitter": {
+                "card": "summary_large_image",
+                "title": "Salaries & Expense Management | CapoBiz Features",
+                "description": "Effortlessly handle salaries and expenses with CapoBiz. Ensure accuracy and reliability every step of the way."
+            },
+            "canonical": "https://capobiz.com/pos-features/salaries-expense-management"
+        },
+        "content": {
+            "heroHeading": "Effortless Salaries & Expense Management with CapoBiz",
+            "title": "Salaries & Expense Management",
+            "description": "Handle payroll and expenses with our Salaries & Expense Management module.",
+            "detailedDescription": "Managing Effortless salaries and expenses effectively is critical for financial health. With CapoBiz’s Salaries & Expense Management module, you can streamline payroll processes and track expenses with precision. Automate calculations, minimize errors, and ensure compliance with financial regulations. Real-time reporting and user-friendly dashboards give you complete oversight of employee payments and operational costs. Whether it’s handling large teams or small businesses, CapoBiz provides a reliable solution to keep your finances in order.",
+            "bulletPoints": [
+                "Automated Payroll Calculations: Minimize manual effort with automated systems.",
+                "Expense Tracking: Monitor all operational costs efficiently.",
+                "Compliance Assurance: Ensure adherence to tax and labor regulations.",
+                "Customizable Reports: Gain insights into financial data with tailored reporting.",
+                "User-Friendly Dashboard: Intuitive interface for seamless management."
+            ],
+            "image": "/assets/features/salaries-expense-management.png"
+        }
+    },
+    {
+        "id": 9,
+        "slug": "sales-forecasting",
+        "meta": {
+            "title": "Sales Forecasting | CapoBiz Features",
+            "description": "Anticipate market trends with CapoBiz Sales Forecasting tools. Make informed decisions with accurate data insights.",
+            "openGraph": {
+                "title": "Sales Forecasting | CapoBiz Features",
+                "description": "CapoBiz empowers your planning with advanced Sales Forecasting. Analyze trends and plan ahead for success.",
+                "url": "https://capobiz.com/pos-features/sales-forecasting",
+                "type": "article"
+            },
+            "twitter": {
+                "card": "summary_large_image",
+                "title": "Sales Forecasting | CapoBiz Features",
+                "description": "Make data-driven decisions with CapoBiz's Sales Forecasting. Gain insights to stay ahead in the market."
+            },
+            "canonical": "https://capobiz.com/pos-features/sales-forecasting"
+        },
+        "content": {
+            "heroHeading": "Stay Ahead with Advanced Sales Forecasting by CapoBiz",
+            "title": "Sales Forecasting",
+            "description": "Anticipate market trends with CapoBiz Sales Forecasting tools.",
+            "detailedDescription": "Make informed decisions with CapoBiz’s Sales Forecasting tools. Analyze historical sales data, predict future trends, and optimize your strategies to meet market demands. Leverage advanced algorithms and AI-driven insights to anticipate customer needs and plan inventory effectively. CapoBiz’s forecasting capabilities help reduce risks, improve budgeting, and enhance overall business performance. Stay ahead in the competitive market by aligning your goals with accurate, data-driven insights.",
+            "bulletPoints": [
+                "Predictive Analytics: Harness AI to forecast sales trends.",
+                "Data-Driven Insights: Make strategic decisions based on reliable data.",
+                "Inventory Optimization: Align stock levels with demand projections.",
+                "Enhanced Budgeting: Plan financial resources with accuracy.",
+                "Customizable Dashboards: Visualize forecasting data effortlessly."
+            ],
+            "image": "/assets/features/sales-forecasting.png"
+        }
+    },
+    {
+        "id": 10,
+        "slug": "comprehensive-reporting",
+        "meta": {
+            "title": "Comprehensive Reporting | CapoBiz Features",
+            "description": "Unlock detailed insights with CapoBiz's Comprehensive Reporting. Make data work for your business success.",
+            "openGraph": {
+                "title": "Comprehensive Reporting | CapoBiz Features",
+                "description": "CapoBiz offers deep analytics with customizable Comprehensive Reporting. Empower your business decisions.",
+                "url": "https://capobiz.com/pos-features/comprehensive-reporting",
+                "type": "article"
+            },
+            "twitter": {
+                "card": "summary_large_image",
+                "title": "Comprehensive Reporting | CapoBiz Features",
+                "description": "Gain actionable insights with CapoBiz's Comprehensive Reporting tools. Achieve smarter decisions today."
+            },
+            "canonical": "https://capobiz.com/pos-features/comprehensive-reporting"
+        },
+        "content": {
+            "heroHeading": "Unlock Insights with Comprehensive Reporting",
+            "title": "Comprehensive Reporting",
+            "description": "Unlock insights into your business performance with Comprehensive Reporting.",
+            "detailedDescription": "CapoBiz's Comprehensive Reporting tools empower you to make smarter decisions based on real-time data and detailed analytics. Customize reports to gain insights tailored to your specific needs. With advanced filtering and visualization options, you can identify trends, track KPIs, and uncover opportunities for growth. Whether you need financial reports, operational summaries, or customer analytics, our solution offers seamless integration and unparalleled accuracy. Take the guesswork out of business strategy with CapoBiz.",
+            "bulletPoints": [
+                "Customizable reports for diverse business needs.",
+                "Advanced data visualization and analytics.",
+                "Real-time insights for quick decision-making.",
+                "Integration with all CapoBiz modules.",
+                "Easy-to-use interface for report generation."
+            ],
+            "image": "/assets/features/comprehensive-reporting.png"
+        }
+    },
+    {
+        "id": 11,
+        "slug": "people-management",
+        "meta": {
+            "title": "People Management | CapoBiz Features",
+            "description": "Simplify HR processes with CapoBiz People Management. Schedule, track, and evaluate employee performance effortlessly.",
+            "openGraph": {
+                "title": "People Management | CapoBiz Features",
+                "description": "Streamline workforce management with CapoBiz. Optimize your team's performance and reduce administrative effort.",
+                "url": "https://capobiz.com/pos-features/people-management",
+                "type": "article"
+            },
+            "twitter": {
+                "card": "summary_large_image",
+                "title": "People Management | CapoBiz Features",
+                "description": "Handle employee management effectively with CapoBiz. Discover tools to streamline your HR operations."
+            },
+            "canonical": "https://capobiz.com/pos-features/people-management"
+        },
+        "content": {
+            "heroHeading": "Effortless Workforce Management with CapoBiz",
+            "title": "People Management",
+            "description": "Efficiently manage your workforce with our People Management feature.",
+            "detailedDescription": "CapoBiz People Management tools help you streamline HR processes, from onboarding to performance evaluations. Manage employee schedules, attendance, and performance effortlessly with automated tools and intuitive dashboards. With our system, you can focus on employee satisfaction and productivity while reducing administrative workload. Our tools integrate seamlessly with payroll and other HR modules, providing a comprehensive solution for workforce management.",
+            "bulletPoints": [
+                "Automated employee scheduling and attendance tracking.",
+                "Performance evaluation tools to boost productivity.",
+                "Integration with payroll and HR modules.",
+                "User-friendly dashboards for quick access to data.",
+                "Focus on employee satisfaction and growth."
+            ],
+            "image": "/assets/features/people-management.png"
+        }
+    },
+    {
+        "id": 12,
+        "slug": "24-7-support",
+        "meta": {
+            "title": "24/7 Support | CapoBiz Features",
+            "description": "Stay supported with CapoBiz's 24/7 customer assistance. Get reliable help whenever you need it.",
+            "openGraph": {
+                "title": "24/7 Support | CapoBiz Features",
+                "description": "CapoBiz provides round-the-clock support to ensure your business runs smoothly. Reliable assistance whenever you need it.",
+                "url": "https://capobiz.com/pos-features/24-7-support",
+                "type": "article"
+            },
+            "twitter": {
+                "card": "summary_large_image",
+                "title": "24/7 Support | CapoBiz Features",
+                "description": "Receive dedicated 24/7 customer support with CapoBiz. Stay confident with uninterrupted assistance."
+            },
+            "canonical": "https://capobiz.com/pos-features/24-7-support"
+        },
+        "content": {
+            "heroHeading": "Dedicated 24/7 Support for Your Business",
+            "title": "24/7 Support",
+            "description": "Round-the-clock assistance with our dedicated 24/7 Support feature.",
+            "detailedDescription": "CapoBiz offers reliable 24/7 support to ensure that your business operations run smoothly at all times. Our dedicated support team is always ready to assist you with any technical or operational challenges. Whether it’s day or night, you can rely on CapoBiz for prompt and effective solutions to your concerns. Stay confident and focused on your business growth while we handle the rest.",
+            "bulletPoints": [
+                "Round-the-clock availability for all support needs.",
+                "Experienced team for quick issue resolution.",
+                "Multi-channel support: phone, email, and chat.",
+                "Proactive monitoring to minimize disruptions.",
+                "Ensures uninterrupted business operations."
+            ],
+            "image": "/assets/features/24-7-support.png"
+        }
+    }
+]
